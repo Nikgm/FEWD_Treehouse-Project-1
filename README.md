@@ -31,4 +31,7 @@ Changed placeholder text for name, background and goals:<br>
 
 Valid code:<br>
 √ HTML and CSS code passes the validation.<br>
-<img src="images/index_validator" alt="index.html validator">
+<img src="images/index_validator.png" alt="index.html validator">
+<img src="images/experience_validator.png" alt="experience.html validator">
+<img src="images/gallery_validator.png" alt="gallery.html validator">
+<img src="images/styles_validator.png" alt="styles.css validator">
